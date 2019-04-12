@@ -1,2 +1,2 @@
-# boilermaker
+# Template
 #### using express and react
