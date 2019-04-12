@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cperalta26/boilermaker.git"
+    "url": "git+https://github.com/cperalta26/template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cperalta26/boilermaker/issues"
+    "url": "https://github.com/cperalta26/template/issues"
   },
-  "homepage": "https://github.com/cperalta26/boilermaker#readme",
+  "homepage": "https://github.com/cperalta26/template#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-class-properties": "^7.3.4",
